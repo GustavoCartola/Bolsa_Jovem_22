@@ -1,4 +1,4 @@
 import winsound
-duracao = 500
-frequencia = 2500
-winsound.Beep(frequencia, duracao)
+duration = 500  # duração do beep
+frequency = 2500  # frequência do beep
+winsound.Beep(frequency, duration)
